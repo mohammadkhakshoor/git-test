@@ -3,8 +3,4 @@ pizza
 pasta
 lazania
 3 favorite movies
-edge of tommorow
-kuroko no basket
-haikyuu
-this is a test
-hi there
+some lines deleted
