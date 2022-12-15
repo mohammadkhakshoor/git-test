@@ -1,4 +1,5 @@
 pizza
 pasta
 lazania
-hello there
+hello everyone
+being an expert in web development
